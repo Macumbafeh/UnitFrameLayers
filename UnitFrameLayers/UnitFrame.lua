@@ -9,7 +9,7 @@
 --######################################################################
 
 local LibAbsorb  = LibStub:GetLibrary("AbsorbsMonitor-1.0");
-local HealComm   = LibStub:GetLibrary("LibHealComm-4.0");
+local HealComm   = LibStub:GetLibrary("LibHealComm-3.0");
 
 PowerBarColor = PowerBarColor or {};
 PowerBarColor["RAGE"] = { r = 1.00, g = 0.00, b = 0.00, fullPowerAnim=true };
